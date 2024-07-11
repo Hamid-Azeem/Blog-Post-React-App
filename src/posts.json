@@ -1,0 +1,26 @@
+[
+  {
+      "id": 1,
+      "title": "Exploring New Horizons in Web Development",
+      "content": "In this first post, Hamid delves into the ever-evolving world of web development. From the basics of HTML to the complexities of modern frameworks, this post serves as a comprehensive guide for beginners and a refresher for seasoned developers. Hamid also shares his personal journey and insights into staying updated with the latest trends in the industry.",
+      "postBy": "Hamid"
+  },
+  {
+      "id": 2,
+      "title": "Mastering CSS: Tips and Tricks for a Stunning Website",
+      "content": "Azeem takes us on a journey through the art of CSS in this second post. With practical examples and real-world applications, he demonstrates how to create visually appealing and responsive designs. Whether you're struggling with layouts or looking to add some flair to your site, Azeem's expert advice will help you master CSS.",
+      "postBy": "Azeem"
+  },
+  {
+      "id": 3,
+      "title": "JavaScript Essentials: From Basics to Advanced Concepts",
+      "content": "In the third post, Ali breaks down the essentials of JavaScript, the backbone of modern web development. He covers everything from fundamental concepts to advanced techniques, providing clear explanations and code snippets. Ali's goal is to make JavaScript accessible to everyone, regardless of their experience level.",
+      "postBy": "Ali"
+  },
+  {
+      "id": 4,
+      "title": "Building Dynamic Websites with ReactJS",
+      "content": "Ahmed concludes this series with a deep dive into ReactJS, a popular JavaScript library for building user interfaces. He explains the core principles of React, such as components and state management, and demonstrates how to create dynamic and interactive websites. Ahmed's post is perfect for developers looking to enhance their front-end development skills with React.",
+      "postBy": "Ahmed"
+  }
+]
